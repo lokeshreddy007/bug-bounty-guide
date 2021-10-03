@@ -142,6 +142,11 @@ Finally, consider the program’s average response time. Some companies will han
 Most bug bounty platforms distinguish between public and private programs.Public programs are those that are open to all; anyone can hack and submit bugs to these programs, as long as they abide by the laws and thebug bounty program’s policies.On the other hand, private programs are open to only invited hackers. For these, companies ask hackers with a certain level of experience and a proven track record to attack the company and submit bugs to it. Private programs are a lot less competitive than public ones because of the limited number of hackers participating. Therefore, it’s much easier to find bugs in them. Private programs also often have a much faster response time, because they receive fewer reports on average
 
 
+### A Quick Comparison 
+| Program      | Asset type | In scope     | Payout   |Response time |
+| ----------- | ----------- |------------- | -------- | ----------- | 
+| HackerOne   | Social site | www.a.dev.com| $500     | 15 hr       |
+
 
 ## Summary of Choosing the Right Program
 
